@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class test {
     public static void main(String[] args) throws Exception {
-        String buggyPath ="hello";
-        System.out.println(buggyPath);
+        //String buggyPath ="hello";
+        System.out.println("hello");
     }
 }

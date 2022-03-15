@@ -6,10 +6,11 @@ import java.util.Set;
 public class test {
     public static void main(String[] args) throws Exception {
         String buggyPath ="hello";
-        if(f()>0) {
-            if(f()<0){
+        int v=f();
+        if(v>0) {
+            if(v<0){
                 
-            }else if(f()==0){
+            }else if(v==0){
                 
             }
         }
